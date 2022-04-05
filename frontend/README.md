@@ -1,3 +1,12 @@
+## First project with Vite and Vue
+
+This project was created to learn the basics of vue 3 and the two modules vue router and pinia.
+
+Enjoy :)
+
+
+
+
 # meditation-app
 
 This template should help get you started developing with Vue 3 in Vite.
