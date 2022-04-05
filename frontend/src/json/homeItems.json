@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Meditate",
+        "content": "Meditate with your personalized Meditation Timer",
+        "path": "/meditation",
+        "position": 1,
+        "image": "button_focus.png"
+    },
+    {
+        "name": "Gratitude Journal",
+        "content": "What are you thankful for today?",
+        "path": "/gratitude",
+        "position": 2,
+        "image": "button_relax.png"
+    },
+    {
+        "name": "Goals & Affirmations",
+        "content": "Set your goals and create affirmations for them",
+        "path": "/goals",
+        "position": 3,
+        "image": "button_anxious.png"
+    },
+    {
+        "name": "Calm music player",
+        "content": "The built-in music player for calming sounds and healing frequencies",
+        "path": "/sounds",
+        "position": 4,
+        "image": "button_calm.png"
+    }
+]
